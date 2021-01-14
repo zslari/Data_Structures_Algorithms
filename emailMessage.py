@@ -2,7 +2,7 @@
 Created By: Zafir Lari
 Application: Sample Email Message Class
 
-Description: Runs with the demo_Email.py file
+Description: Runs with the demo_emailMessage.py file
 """
 
 
