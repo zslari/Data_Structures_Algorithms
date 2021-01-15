@@ -1,14 +1,15 @@
-""" CS 3C Lab #3 - Linked Lists and Stacks
-Student Name: Zafir Lari
+"""
+Linked Lists and Stacks
+Created By: Zafir Lari
 Application: Balancing Symbols
 
 Description: This application processes a string of symbols
 and checks whether the given expression has balanced symbols.
 
-Requires Stack and Node from zafirlaristack.py and zafirlarinode.py
+Requires Stack and Node from stack_ADT.py and node_ADT.py
 """
 
-from zafirlaristack import Stack
+from stack_ADT import Stack
 
 
 def charParser(symbolstring: str):
