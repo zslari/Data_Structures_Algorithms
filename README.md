@@ -10,4 +10,4 @@ Implementations of applications that demonstrate the following Data Structures a
 -Sorting\
 -Trees\
 -Graphs\
--Timing and Big O/Big N\
+-Timing and Big O/Big N
