@@ -1,12 +1,12 @@
-""" Graph Class and Test Driver for Lab Assignment 8
-Student Name: Zafir Lari
+""" 
+Implementation of Graph Class and Vertices from vertex.py
+Created By: Zafir Lari
 Application: Graph Abstract Data Type Representation
 
 Description: Implements a representation of the graph below
 
 5 vertices (a, b, c, d, e)
 Weighted edges: a->b 4; a->c 1; c->b 2; b->e 4; c->d 4
-
 """
 
 from vertex import Vertex
