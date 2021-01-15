@@ -1,6 +1,6 @@
 # Data_Structures_Algorithms
 
-Implementations of applications that demonstrate the following Data Structures and Algorithms with Python:
+A compilation of applications that demonstrate the following Data Structures and Algorithms with Python:
 
 -Nodes\
 -Stacks\
